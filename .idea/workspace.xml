@@ -1,187 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6e426223-1f21-45cb-84df-1106342b6cef" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WEB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/artifacts/Web1_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/artifacts/Web1_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__com_alibaba_druid_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_mybatis_mybatis_3_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_springframework_spring_aop_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_springframework_spring_beans_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_springframework_spring_context_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_springframework_spring_core_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_springframework_spring_expression_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_springframework_spring_test_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_springframework_spring_tx_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/Web1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/java/com/lyrpx/controller/CourseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/java/com/lyrpx/dao/CourseMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/java/com/lyrpx/dao/CourseMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/java/com/lyrpx/pojo/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/java/com/lyrpx/service/CourseService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/java/com/lyrpx/service/CourseServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/java/com/lyrpx/util/ImgFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/resources/spring/spring-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/resources/spring/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/resources/spring/spring-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/src/test/java/CourseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/classes/com/lyrpx/controller/CourseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/classes/com/lyrpx/dao/CourseMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/classes/com/lyrpx/dao/CourseMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/classes/com/lyrpx/pojo/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/classes/com/lyrpx/service/CourseService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/classes/com/lyrpx/service/CourseServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/classes/com/lyrpx/util/ImgFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/classes/spring/spring-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/classes/spring/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/classes/spring/spring-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/commons-fileupload-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/druid-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/jackson-annotations-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/jackson-core-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/jackson-databind-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/mybatis-3.5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/mybatis-spring-2.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/mysql-connector-java-8.0.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/spring-aop-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/spring-beans-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/spring-context-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/spring-core-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/spring-expression-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/spring-jcl-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/spring-jdbc-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/spring-test-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/spring-tx-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/spring-web-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/lib/spring-webmvc-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/classes/com/lyrpx/controller/CourseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/classes/com/lyrpx/dao/CourseMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/classes/com/lyrpx/dao/CourseMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/classes/com/lyrpx/pojo/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/classes/com/lyrpx/service/CourseService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/classes/com/lyrpx/service/CourseServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/classes/com/lyrpx/util/ImgFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/classes/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/classes/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/classes/spring/spring-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/classes/spring/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/classes/spring/spring-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/target/test-classes/CourseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/420605ad-86f5-4787-88fd-cccc92d634e5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/63f8f424-9758-4a6b-ae9f-3223d8bf2183.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/772fcb4c-3ad5-40d0-ad1a-d7279f7b0db1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/971f0fb2-5265-4060-8cc2-4d25def14780.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/a41681fc-3d03-42eb-9e2a-6ed2f60791b1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/abc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/ad4fbbfa-5e09-428c-a6ef-09203794a368.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/ad88d088-2fb7-409e-a55f-fb070f44e919.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/cadf4265-8ecb-47f7-8fab-76b02982b339.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/cyuyanchengxusheji.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/ddf65084-f420-42a8-9019-5bd4d3c99b1c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/e1cbd7b0-4b7a-4ca7-84fe-b741e08d5a69.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/f2dd6214-0d42-46e1-8027-7bd11171d45e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/fabdf7df-b8ea-4d0f-998c-a13adfb364fb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/gaodengshuxue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/Web1/upload/gaodengshuxue2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/classes/com/lyrpx/controller/CourseController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/classes/com/lyrpx/dao/CourseMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/classes/com/lyrpx/dao/CourseMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/classes/com/lyrpx/pojo/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/classes/com/lyrpx/service/CourseService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/classes/com/lyrpx/service/CourseServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/classes/com/lyrpx/util/ImgFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/classes/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/classes/spring/spring-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/classes/spring/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/classes/spring/spring-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/commons-fileupload-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/druid-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/jackson-annotations-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/jackson-core-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/jackson-databind-2.11.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/mybatis-3.5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/mybatis-spring-2.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/mysql-connector-java-8.0.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/spring-aop-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/spring-beans-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/spring-context-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/spring-core-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/spring-expression-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/spring-jcl-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/spring-jdbc-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/spring-test-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/spring-tx-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/spring-web-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/springmvc/target/javaweb03/WEB-INF/lib/spring-webmvc-5.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/vue+element ui/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/vue+element ui/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/vue+element ui/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/vue+element ui/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/vue+element ui/.idea/vue+element ui.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/vue+element ui/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/vue+element ui/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/vue+element ui/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/vue+element ui/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web1/vue+element ui/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Web1/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Web1/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Web1/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WEB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WEB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web" beforeDir="false" afterPath="$PROJECT_DIR$/Web" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Web/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/src/main/java/com/lyrpx/dao/ICourseMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Web/src/main/java/com/lyrpx/dao/ICourseMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/src/main/java/com/lyrpx/dao/ISchoolMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Web/src/main/java/com/lyrpx/dao/ISchoolMapper.java" afterDir="false" />
@@ -189,23 +15,6 @@
       <change beforePath="$PROJECT_DIR$/Web/target/classes/com/lyrpx/dao/ICourseMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Web/target/classes/com/lyrpx/dao/ICourseMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/target/classes/com/lyrpx/dao/ISchoolMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Web/target/classes/com/lyrpx/dao/ISchoolMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web/target/test-classes/Test/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Web/target/test-classes/Test/MyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lyrpx/dao/ICourseMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lyrpx/dao/ISchoolMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lyrpx/pojo/ICourse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lyrpx/pojo/ISchool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lyrpx/utils/MyTool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Web1/Web1/src/main/resources/database.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test/MyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lyrpx/dao/ICourseMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lyrpx/dao/ISchoolMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lyrpx/pojo/ICourse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lyrpx/pojo/ISchool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lyrpx/utils/MyTool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Web1/Web1/target/Web1/WEB-INF/classes/database.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Test/MyTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,6 +35,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -239,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652872714200</updated>
       <workItem from="1652872717379" duration="854000" />
-      <workItem from="1652873647892" duration="793000" />
+      <workItem from="1652873647892" duration="1633000" />
     </task>
     <servers />
   </component>
